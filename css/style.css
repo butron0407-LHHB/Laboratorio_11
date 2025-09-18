@@ -8,13 +8,21 @@ h1 {
     text-align: center;
     color: #343a40;
     margin-bottom: 40px;
-    font-size: 3rem;
+    font-size: 5rem;
 }
 h3 {
     color: #28a745; /* H3 verde */
     font-weight: bold;
     margin-bottom: 10px;
+    font-size: 3rem;
+}
+h5 {
+    cursor: pointer;
     font-size: 1.5rem;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
 }
 .blue-text {
     color: #007bff !important; /* Clase azul */
