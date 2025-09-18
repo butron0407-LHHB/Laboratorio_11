@@ -23,6 +23,7 @@ h5 {
     border-radius: 5px;
     display: inline-block;
     margin: 5px;
+    user-select: none;
 }
 .blue-text {
     color: #007bff !important; /* Clase azul */
