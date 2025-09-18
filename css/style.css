@@ -1,0 +1,31 @@
+body {
+    background-color: #f5f5f5; /* Fondo gris */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    color: #343a40;
+    margin-bottom: 40px;
+    font-size: 3rem;
+}
+h3 {
+    color: #28a745; /* H3 verde */
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+.blue-text {
+    color: #007bff !important; /* Clase azul */
+}
+.red-text {
+    color: #dc3545 !important; /* H3 Rojo */
+}
+img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+    margin: 10px 0;
+    justify-content: center;
+}
